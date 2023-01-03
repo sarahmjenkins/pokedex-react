@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sarahmjenkins/pokedex-react/issues"
   },
-  "homepage": "https://github.com/sarahmjenkins/pokedex-react#readme"
+  "homepage": "https://github.com/sarahmjenkins/pokedex-react#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
