@@ -7,7 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
@@ -18,7 +20,6 @@
   "bugs": {
     "url": "https://github.com/sarahmjenkins/pokedex-react/issues"
   },
-  "homepage": "https://github.com/sarahmjenkins/pokedex-react#readme",
   "dependencies": {
     "axios": "^1.2.2",
     "bootstrap": "^5.2.3",
