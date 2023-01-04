@@ -1,7 +1,6 @@
 import React from 'react';
 import axios from 'axios';
 import { Card, Button } from 'react-bootstrap';
-import { PokemonModal } from '../pokemon-modal/pokemon-modal';
 
 export class PokemonCard extends React.Component {
 
