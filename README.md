@@ -44,3 +44,7 @@ Node.js, npm package, Parcel.
 ## Deployed App
 
 This app is deployed in [GitHub Pages](https://sarahmjenkins.github.io/pokedex-react/).
+
+## Future Improvements
+
+The goal of this project was to create a functional app. Future improvements would include fetching all pokemon from the Pokemon API and creating more visually appealing styling.
