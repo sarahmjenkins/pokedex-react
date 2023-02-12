@@ -4,7 +4,7 @@ January 2023
 
 ## Project Description
 
-This project is a Pokedex using the [Pokemon API](https://pokeapi.co/). It is an updated version of the Pokedex project created as part of CareerFoundry's web development program, using React rather than vanilla JavaScript.
+This project uses React to create a Pokedex using the [Pokemon API](https://pokeapi.co/). 
 
 ## Key Features
 
