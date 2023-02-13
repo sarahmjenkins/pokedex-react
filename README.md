@@ -4,7 +4,7 @@ January 2023
 
 ## Project Description
 
-This project uses React to create a Pokedex using the [Pokemon API](https://pokeapi.co/). 
+This project uses React to create a Pokedex using the [Pokemon API](https://pokeapi.co/). This was my first independent project after completing my full-stack bootcamp course work and is inspired by an earlier vanilla JavaScript Pokedex created during the bootcamp.
 
 ## Key Features
 
